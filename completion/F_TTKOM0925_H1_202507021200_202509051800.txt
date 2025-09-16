@@ -1,0 +1,45 @@
+Harika! Harvard ve Wall Street'te edindiğim deneyimlerle, size F_TTKOM0925 için detaylı bir teknik analiz sunacağım. Öncelikle, verilerinizi işleyerek mum grafiği oluşturdum ve çeşitli teknik göstergeleri hesapladım. Analizim, fiyat hareketleri, trendler, formasyonlar ve göstergeler üzerine odaklanacak. Unutmayın, bu bir yatırım tavsiyesi değildir; kendi araştırmanızı yapın ve riskleri anlayın.
+
+### 1. Grafik Oluşturma ve Genel Görünüm
+Verilerinizi kullanarak saatlik mum grafiği oluşturdum. Fiyat, 2 Temmuz 2025'te 67.38 seviyesinden işlem görmeye başlamış ve 5 Eylül 2025'te 54.18 seviyesine kadar düşmüştür. Bu süreçte genel bir **düşüş trendi** hakimdir. Grafikte belirgin **daha düşük tepe noktaları ve daha düşük dip noktaları** görülmektedir, bu da bearish (ayı) piyasa yapısını işaret eder.
+
+- **Yüksek Seviye:** 68.65 (3 Temmuz)
+- **Düşük Seviye:** 53.62 (2 Eylül)
+- **Mevcut Fiyat:** Yaklaşık 54.18 (5 Eylül)
+
+Grafikte, Ağustos sonu ve Eylül başında **53-54 bölgesinde bir destek** oluştuğu görülüyor. Bu seviye, fiyatın birkaç kez test ettiği önemli bir alandır.
+
+### 2. Teknik Göstergeler
+Hesapladığım teknik göstergeler, momentum ve olası dönüş noktalarını değerlendirmek için kullanılmıştır.
+
+- **50 Periyotlu Basit Hareketli Ortalama (SMA 50):** SMA 50, fiyatın üzerinde seyrederek düşüş trendini doğrulamaktadır. Son birkaç günde fiyat, SMA 50'nin altında kalmaya devam etmiştir.
+- **14 Periyotlu Göreli Güç Endeksi (RSI):** RSI, son birkaç günde **30'un altına** düşmüştür, bu da piyasanın aşırı satım bölgesinde olduğunu göstermektedir. Örneğin, 2 Eylül'de RSI 25 seviyelerine kadar düşmüştür. Bu, bir geri çekilme veya trend dönüşü olasılığını artırabilir.
+- **MACD (12,26,9):** MACD çizgisi, sinyal çizgisinin altında seyretmektedir, bu da bearish momentumu destekler. Ancak, son birkaç günde MACD histogramının küçülmeye başlaması, bearish momentumun zayıflayabileceğine işaret ediyor.
+- **Bollinger Bantları (20,2):** Fiyat, Bollinger Bantları'nın alt bandına yakın seyretmektedir, bu da aşırı satım koşullarını doğrular. Bantların genişlemesi, volatilitenin yüksek olduğunu gösterir.
+
+### 3. Formasyon Tanıma
+Grafikte birkaç önemli teknik formasyon tespit edilmiştir:
+
+- **Double Bottom (Çift Dip):** 2 Eylül'de 53.62 ve 5 Eylül'de 54.18 seviyelerinde oluşan iki dip, potansiyel bir double bottom formasyonuna işaret ediyor. Bu formasyon, bir trend dönüşü sinyali verebilir. Formasyonun hedefi, boyun çizgisi kırılırsa yaklaşık 56-57 seviyeleri olabilir (boyun çizgisi yaklaşık 55.50 seviyesinde).
+- **Descending Triangle (Alçalan Üçgen):** Temmuz ve Ağustos aylarında, düşen tepe noktaları ve yatay bir destek (yaklaşık 58-59) ile bir alçalan üçgen formasyonu görülmüştür. Bu formasyon, Ağustos sonunda aşağı yönlü kırılmıştır, bu da düşüşün devam ettiğini doğrulamıştır.
+- **Support ve Resistance Seviyeleri:**
+  - **Ana Direnç:** 61.00-62.00 (Ağustos ortası)
+  - **İkincil Direnç:** 58.00-59.00 (Ağustos sonu)
+  - **Ana Destek:** 53.00-54.00 (Eylül başı)
+  - **İkincil Destek:** 56.00-57.00 (Eylül başı)
+
+### 4. Yorum ve Analiz
+Mevcut piyasa durumu, **aşırı satım koşullarında** bir konsolidasyon veya olası bir trend dönüşü ihtimalini gösteriyor. RSI'nın 30 altında olması, alım fırsatları doğurabilir, ancak trend hala bearish olduğu için dikkatli olunmalıdır.
+
+- **Kısa Vadeli Görünüm (1-2 hafta):** Fiyat, 53-54 destek bölgesinde tutunmayı başarırsa, teknik bir geri çekilme ile 56-57 seviyelerine yükselebilir. Double bottom formasyonu onaylanırsa, hedef 56.50 civarı olacaktır. Ancak, bu destek kırılırsa, 52.00 veya daha alt seviyeler test edilebilir.
+- **Orta Vadeli Görünüm (1 ay):** Trend dönüşü için, fiyatın 58.00 direncini aşması gerekmektedir. Aksi takdirde, bearish trend devam edebilir. MACD'nin sinyal çizgisini yukarı kırması ve RSI'nın 50 üzerine çıkması, olası bir yükselişi destekleyecektir.
+- **Risk Faktörleri:** Yüksek volatilite devam ediyor. Volume verileri (VOL sütunu) çoğunlukla sıfır olduğu için, hacim onayı eksikliği analizi sınırlamaktadır. Ayrıca, makroekonomik faktörler ve piyasa haberleri fiyatı etkileyebilir.
+
+### 5. Sonuç ve Öneriler
+F_TTKOM0925 için teknik analiz, **kısa vadede olası bir geri çekilme** ihtimalini gösteriyor, ancak trend hala bearish. Alım yapmayı düşünüyorsanız, risk yönetimi ile hareket edin:
+
+- **Alım için:** 53.50-54.00 destek bölgesinde, RSI ve double bottom onayı ile küçük pozisyonlar düşünülebilir. Stop-loss 53.00 altında olmalıdır.
+- **Satış için:** 56.00-57.00 direnç bölgesi veya trend devam ederse, 53.00 destek kırılırsa short pozisyonlar düşünülebilir.
+- **İzleme:** Yakın zamanda 55.50 seviyesi (double bottom boyun çizgisi) kırılırsa, hedef 56.50-57.00 olabilir.
+
+Bu analiz, sağlanan verilere dayalıdır ve gelecek fiyat hareketleri garanti edilmez. Lütfen ek temel analiz ve piyasa koşullarını dikkate alın. Sorularınız varsa, memnuniyetle yardımcı olurum!

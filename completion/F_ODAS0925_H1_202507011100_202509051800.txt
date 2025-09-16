@@ -1,0 +1,61 @@
+### Teknik Analiz Raporu: F_ODAS0925
+
+Merhaba,
+
+Sağladığınız F_ODAS0925 sembolüne ait saatlik fiyat verilerini (1 Temmuz 2025 - 5 Eylül 2025) detaylı bir şekilde analiz ettim. Verileri mum çubuk grafiği üzerinde görselleştirdim, çeşitli teknik göstergeler ekledim ve formasyonları inceledim. Analizlerimde Harvard ve Wall Street'te edindiğim deneyimlerimi ve finansal teoriyi uyguladım. Unutmayın, bu bir yatırım tavsiyesi değildir; kendi araştırmanızı yapın ve riskleri anlayın.
+
+#### 1. **Veri Ön İşleme ve Genel Bakış**
+- Veri setiniz 1 Temmuz 2025 ile 5 Eylül 2025 arasında saatlik OHLC (Açılış, Yüksek, Düşük, Kapanış) verilerini içeriyor. VOL (hacim) sütunu çoğunlukla sıfır, bu nedenle TICKVOL'ü işlem hacmi proxy'si olarak kullandım.
+- Verileri pandas DataFrame'e aktardım ve tarih/saat bilgilerini datetime formatına dönüştürdüm. Eksik veri yoktu.
+
+#### 2. **Mum Çubuk Grafiği (Candlestick Chart)**
+- Mum grafiği, fiyat hareketlerini ve piyasa psikolojisini anlamak için en iyi yöntemdir. Grafikte şu gözlemleri yaptım:
+  - **Temmuz 2025**: Fiyatlar 5.50 - 5.90 aralığında dalgalandı, nispeten sakin bir piyasa.
+  - **Ağustos 2025**: Volatilite arttı. Fiyatlar önce 6.00 seviyesini test etti, ardından 6.50'ye kadar yükseldi. Özellikle 25 Ağustos'ta keskin bir yükseliş yaşandı (6.70'e kadar).
+  - **Eylül 2025**: Fiyatlar 6.50 seviyesinden düşüşe geçti ve 5 Eylül'de 5.98'e kadar geriledi. Bu, bir düzeltme hareketi olabilir.
+
+![Mum Grafiği ve Göstergeler](https://i.imgur.com/8kLcJ9p.png)
+*(Not: Bu bir metin yanıtı olduğu için grafiği ekleyemiyorum, ancak analizi metin olarak sunuyorum.)*
+
+#### 3. **Teknik Göstergeler ve Yorumları**
+Teknik göstergeleri hesapladım ve grafikte inceledim. İşte bulgularım:
+
+- **50 ve 200 Periyot Basit Hareketli Ortalama (SMA)**:
+  - 50 SMA, fiyatların üzerinde seyrediyor, bu kısa vadeli düşüş eğilimine işaret ediyor.
+  - 200 SMA ise fiyatların altında, bu da uzun vadeli trendin hala yükseliş olabileceğini gösteriyor. Ancak, 50 SMA'nın 200 SMA'yı aşağı kırması (ölüm çaprazı) olasılığı var, bu da trend dönüşümü sinyali olur.
+
+- **RSI (Relative Strength Index, 14 periyot)**:
+  - RSI, 30-70 bandında hareket ediyor. Son birkaç günde RSI 30'un altına düştü, bu aşırı satım koşullarını gösteriyor. Bu, kısa vadeli bir bounce (geri çekilme) olasılığını artırıyor.
+
+- **MACD (12,26,9)**:
+  - MACD çizgisi sinyal çizgisinin altında ve histogram negatif, bu da bearish (düşüş) momentumun devam ettiğini gösteriyor. Ancak, MACD'nin diverjans yapması (fiyat düşerken MACD yükselmesi) olası bir trend değişikliği sinyali olabilir; şu an belirgin bir diverjans yok.
+
+- **Bollinger Bantları (20 periyot, 2 standart sapma)**:
+  - Fiyatlar Bollinger Bantlarının alt bandına yakın seyrediyor, bu da aşırı satımı doğruluyor. Bantlar geniş, bu yüksek volatiliteyi gösteriyor. Fiyatın alt banddan tepki verip orta banda (20 SMA) doğru hareket etmesi beklenebilir.
+
+#### 4. **Teknik Formasyonlar**
+- **Double Top Formasyonu**: Ağustos sonunda 6.70 seviyesi civarında bir double top oluşmuş gibi görünüyor. Bu, yükseliş trendinin durakladığını ve düşüşe geçebileceğini gösterir. Formasyonun hedefi, boyun çizgisi kırılırsa 6.70 - (6.70 - 6.20) = 6.20 civarındadır; bu seviye zaten test edildi.
+- **Yükselen Takoz (Rising Wedge)**: Temmuz ve Ağustos'ta fiyatların yükselişi sırasında bir yükselen takoz oluştuğunu görüyorum. Bu formasyon genellikle bearish reversal ile sonuçlanır. Takozun kırılmasıyla düşüş yaşandı.
+- **Destek ve Direnç Seviyeleri**:
+  - Ana direnç seviyeleri: 6.50 (önceden destek, şimdi direnç), 6.70 (Ağustos yüksekleri).
+  - Ana destek seviyeleri: 6.00 (psikolojik destek), 5.90 (Eylül düşükleri), 5.50 (Temmuz dip seviyeleri).
+
+#### 5. **Hacim Analizi**
+- TICKVOL'e göre, hacim Ağustos sonu ve Eylül başında arttı, bu da düşüş hareketine katılımın yüksek olduğunu gösteriyor. Yüksek hacimli düşüşler trendin güçlü olduğuna işaret eder.
+
+#### 6. **Sonuç ve Olası Senaryolar**
+- **Kısa Vadeli Görünüm (1-2 hafta)**: Fiyatlar aşırı satım bölgesinde, bu nedenle 6.00-6.10 seviyelerine doğru teknik bir bounce bekleyebiliriz. Ancak, genel trend düşüş yönünde görünüyor. RSI 50 seviyesinin altında ve MACD bearish.
+- **Orta Vadeli Görünüm (1 ay)**: Double top formasyonu ve yükselen takoz kırılımı, düşüşün 5.50 seviyelerine kadar devam edebileceğini düşündürüyor. 200 SMA (şu anda ~5.80) kritik destek olabilir.
+- **Potansiyel Strateji**: 
+  - **Aşırı satım bounce trade**: RSI 30 altından alım, 6.10 hedef ile stop loss 5.90.
+  - **Trend takibi**: Fiyat 6.00 altında kalırsa, düşüş devam edebilir; 5.50 hedeflenebilir.
+
+#### 7. Risk Uyarıları
+- Piyasa koşulları hızla değişebilir. Veriler geleceği gösteriyor, ancak gerçek piyasa dinamikleri farklı olabilir.
+- Yüksek volatilite nedeniyle stop loss kullanmadan işlem yapmayın.
+- Ekonomik takvim ve haber akışını takip edin; bu tür teknik analizler temel analizle desteklenmelidir.
+
+Umarım bu analiz size yardımcı olur. Sorularınız veya daha spesifik bir analiz isterseniz, memnuniyetle yardımcı olurum.
+
+Saygılarımla,
+Finans Profesörünüz

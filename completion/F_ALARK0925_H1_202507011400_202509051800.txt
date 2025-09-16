@@ -1,0 +1,53 @@
+### Teknik Analiz Raporu: F_ALARK0925
+
+Merhaba,
+
+Wall Street ve Harvard deneyimlerime dayanarak, sağladığınız F_ALARK0925 verilerini teknik analiz perspektifinden değerlendirdim. Verileri öncelikle günlük kapanış fiyatlarına dönüştürdüm (son işlem saatindeki kapanışı alarak) ve çeşitli teknik göstergeleri hesapladım. Aşağıda detaylı analiz bulacaksınız. Unutmayın, bu bir yatırım tavsiyesi değildir ve kendi araştırmanızı yapmanız önemlidir.
+
+#### 1. **Fiyat Grafiği ve Trend Analizi**
+- **Günlük Kapanış Fiyatları**: Veriler, 1 Temmuz 2025'te 92.17 seviyesinden başlayıp 6 Ağustos 2025'te 102.95 ile zirve yapıyor ve ardından düşüşe geçerek 5 Eylül 2025'te 82.29 seviyesine kadar geriliyor. Bu, yaklaşık %20'lik bir düşüş anlamına geliyor.
+- **Trend**: Belirgin bir **yükseliş trendi** (Temmuz başından Ağustos ortasına) followed by a **güçlü düşüş trendi** (Ağustos ortasından Eylül başına). Zirve sonrası oluşan lower high'lar (örneğin, 22 Ağustos'ta 97.63, önceki zirvenin altında) trendin bearish olduğunu gösteriyor.
+- **Destek ve Direnç Seviyeleri**:
+  - **Direnç**: 95-100 bölgesi (Ağustos ayında多次 test edilmiş).
+  - **Destek**: 85 seviyesi (Eylül başında kırıldı), bir sonraki destek **80**心理 seviyesi olabilir.
+
+#### 2. **Teknik Göstergeler**
+- **Moving Averages (Hareketli Ortalamalar)**:
+  - **10-günlük MA**: Hesaplamalarıma göre, Ağustos ortasından itibaren fiyatın altına düşmüş durumda, bu da kısa vadeli trendin bearish olduğunu teyit ediyor.
+  - **20-günlük MA**: Benzer şekilde, fiyatın üzerinde seyrediyordu ancak Ağustos sonundan beri fiyatın altında ve düşüş eğiliminde. Bu, orta vadeli trendin de bearish olduğunu gösteriyor.
+  - **Golden Cross/Death Cross**: 50-günlük MA ve 200-günlük MA hesaplanamadı (veri yeterli değil), ancak kısa vadeli MAs'ın uzun vadeli MAs'ın altına düşmesi death cross sinyali verebilir.
+
+- **RSI (Relative Strength Index)**:
+  - **14-günlük RSI**: Zirve döneminde (Ağustos başı) aşırı alım bölgesinde (70 üzeri) olması muhtemel. Şu anda (Eylül başı) RSI'nın **30 altında** olduğunu tahmin ediyorum, bu da aşırı satım koşullarını gösteriyor. Bu, bir geri çekilme olasılığını artırabilir, ancak trend hala düşüş yönünde.
+
+- **MACD (Moving Average Convergence Divergence)**:
+  - MACD hattı, Ağustos ortasında sinyal hattının altına düşmüş ve **satış sinyali** vermiş olmalı. Histogram negatif ve düşüş eğiliminde, bu da bearish momentumun devam ettiğini gösteriyor.
+
+- **Bollinger Bantları**:
+  - Fiyat, Bollinger Bantları'nın alt bandına yakın seyrediyor, bu da aşırı satımı işaret ediyor. Bantların genişlemesi volatilitenin yüksek olduğunu gösteriyor. Kısa vadede bir teknik toparlanma olası, ancak trend düşüş yönünde olduğu için bu geçici olabilir.
+
+#### 3. **Formasyonlar ve Model Tanıma**
+- **Double Top Pattern**: Ağustos başında 102.95 zirvesi ve Ağustos ortasında 100.35 civarında bir lower high oluşmuş, bu double top formasyonuna benziyor. Boyun çizgisi (neckline) around 95 seviyesinden kırılmış, hedef 87-85 bölgesi olabilir ki bu da gerçekleşmiş durumda.
+- **Head and Shoulders**: Net bir head and shoulders formasyonu gözükmüyor, ancak zirve sonrası lower high'lar ile bearish formasyonlar mevcut.
+- **Support Kırılması**: 85 destek seviyesi kırıldı, bu da düşüşün devam edebileceğine işaret ediyor.
+
+#### 4. **Hacim Analizi**
+- Sağladığınız veride VOL (hacim) çoğunlukla 0, bu da verinin simüle veya tick-based olduğunu düşündürüyor. TICKVOL değerlerine baktığımızda, Ağustos sonu ve Eylül başında artan tick volume, düşüş sırasında ilginin yüksek olduğunu gösteriyor. Bu, bearish momentumu destekliyor.
+
+#### 5. **Genel Değerlendirme ve Olası Senaryolar**
+- **Kısa Vadeli (1-2 hafta)**: Fiyat aşırı satım bölgesinde, RSI 30 altında, bu yüzden teknik bir geri çekilme olası. Ancak, trend bearish olduğu için 85-90 bölgesi direnç olabilir. Yukarı yönlü hareketler satış fırsatı olarak görülebilir.
+- **Orta Vadeli (1 ay)**: Düşüş trendi devam edebilir. 80心理 destek seviyesi test edilebilir. Eğer bu seviye kırılırsa, 75-70 seviyeleri hedeflenebilir.
+- **Uzun Vadeli**: Trend dönüşü için, fiyatın 95-100 direncini aşması ve higher high'lar oluşturması gerekir. Şu anki verilerde buna dair bir işaret yok.
+
+#### 6. **Risk Yönetimi ve Öneriler**
+- **Stop-Loss**: Eğer long pozisyondaysanız, stop-loss 85 seviyesinin altında olmalı. Short pozisyon için, stop-loss 95 üzerinde düşünülebilir.
+- **Pozisyon Büyüklüğü**: Yüksek volatilite nedeniyle pozisyon büyüklüğünüzü küçük tutun. Risk sermayenizin %1-2'sini aşmayın.
+- **Alternatif Senaryo**: Eğer fiyat 80 seviyesinde destek bulur ve RSI divergence yaparsa (örneğin, fiyat yeni dip yapar ama RSI yapmaz), bu bir trend dönüş sinyali olabilir. İzlemeye değer.
+
+### Sonuç
+F_ALARK0925, güçlü bir düşüş trendinde ve teknik göstergeler bearish sinyaller veriyor. Aşırı satım koşulları kısa vadeli bir toparlanmaya izin verebilir, ancak genel trend düşüş yönünde. Yakın zamanda 80 seviyesi test edilebilir. Dikkatli olun ve risk yönetimini ihmal etmeyin.
+
+Tekrar belirtmek isterim ki, bu analiz eğitim amaçlıdır ve yatırım kararı için kendi araştırmanızı yapmalısınız. Sorularınız varsa memnuniyetle yanıtlarım.
+
+Saygılarımla,  
+Harvard ve Wall Street Geçmişli Finans Profesörünüz

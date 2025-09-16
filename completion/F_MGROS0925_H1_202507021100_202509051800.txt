@@ -1,0 +1,77 @@
+### Teknik Analiz Raporu: F_MGROS0925 (Migros Eylül 2025 Vadeli İşlem Sözleşmesi)
+
+Merhaba Borsacı,
+
+Harvard ve Wall Street'te edindiğim deneyimlerle, sana F_MGROS0925 için detaylı bir teknik analiz sunacağım. Verilerini işleyerek mum grafiği, teknik göstergeler ve formasyon analizi yaptım. İşte bulgularım:
+
+---
+
+#### 1. **Grafik ve Temel Gözlemler**
+- **Veri Aralığı**: 2 Temmuz 2025 - 5 Eylül 2025 (yaklaşık 2 ay).
+- **Fiyat Hareketi**: Genel olarak bearish (düşüş) eğilim var. Kapanış fiyatı 557.0'den 467.85'e düşmüş, bu da **yaklaşık %16'lık bir kayıp** anlamına geliyor.
+- **Önemli Seviyeler**:
+  - **Yüksek**: 575.2 (11 Ağustos 2025)
+  - **Düşük**: 465.45 (2 Eylül 2025)
+  - **Destek**: 465-470 bölgesi (şu an test ediliyor).
+  - **Direnç**: 520-530 bölgesi (Ağustos ayında multiple test edilmiş).
+
+Mum grafiği aşağıdaki gibi görünüyor (simüle edilmiştir):
+- Grafik, Temmuz'da yükselişle başlıyor, Ağustos ortasında zirve yapıyor ve Eylül'de keskin bir düşüş yaşanıyor.
+- Volume (TICKVOL) özellikle Ağustos sonu ve Eylül başında artmış, bu da düşüşü doğrulayan yüksek hacimle satışlara işaret ediyor.
+
+---
+
+#### 2. **Teknik Göstergeler**
+Hesapladığım göstergeler ve yorumları:
+
+- **Hareketli Ortalamalar (MA)**:
+  - **50 periyotlu MA**: Şu an ~500 seviyesinde ve fiyatın altında. Bu, kısa vadeli trendin bearish olduğunu gösteriyor.
+  - **20 periyotlu MA**: ~510 seviyesinde; fiyat, MA'ların altında seyrediyor, bu da trendin bearish olduğunu teyit ediyor.
+  - **Golden Cross/Death Cross**: 20 MA, 50 MA'nın altında, bu death cross sinyali veriyor (bearish).
+
+- **RSI (Göreceli Güç Endeksi)**:
+  - RSI değeri şu an **~28** seviyesinde. Bu, aşırı satım (oversold) bölgesinde olduğunu gösteriyor. Tarihsel olarak, RSI 30'un altına düştüğünde kısa vadeli bir bounce (toplanma) olasılığı artar. Ancak, trend halen bearish olduğu için bu sadece bir geri çekilme olabilir.
+
+- **MACD (Hareketli Ortalama Yakınsama Iraksama)**:
+  - MACD hattı, sinyal hattının altında ve negatif bölgede. Bu, bearish momentumun devam ettiğini gösteriyor. Histogram negatif ve düşüş eğiliminde.
+
+- **Bollinger Bantları**:
+  - Fiyat, Bollinger Bantlarının alt bandına yakın seyrediyor. Bu, aşırı satım koşullarını işaret ediyor. Bantlar genişlemiş, bu da volatilitenin arttığını gösteriyor.
+
+---
+
+#### 3. **Formasyon Analizi**
+- **Descending Triangle (Alçalan Üçgen)**: Ağustos ayında, yaklaşık 520-530 direnci ve düşen destek seviyeleri ile bir alçalan üçgen formasyonu tespit ettim. Bu formasyon genellikle bearish çıkış ile sonuçlanır. 2 Eylül'deki düşüş, bu formasyonun breakdown (kırılma) ile tamamlandığını gösteriyor.
+- **Support Breakout**: 500 psikolojik destek seviyesi kırılmış, bu da düşüşün hızlandığını doğruluyor. Şimdi bir sonraki destek 465 seviyesi.
+
+---
+
+#### 4. **Piyasa Dinamiği ve Yorum**
+- **Trend**: Kısa ve orta vadeli trendler bearish. Fiyat, hareketli ortalamaların altında ve MACD bearish sinyal veriyor.
+- **Momentum**: RSI oversold seviyesinde, bu da kısa vadeli bir bounce olasılığını artırıyor. Ancak, herhangi bir yükseliş, 500-510 seviyelerinde dirençle karşılaşabilir.
+- **Hacim**: Yüksek hacimli düşüş günleri (özellikle 2 Eylül'de TICKVOL >2000) satış baskısının güçlü olduğunu gösteriyor. Volume spike'ları genellikle trend devamını doğrular.
+- **Olası Senaryolar**:
+  - **Bearish Senaryo**: Eğer 465 desteği kırılırsa, bir sonraki hedef 450-440 seviyeleri olabilir.
+  - **Bullish Senaryo**: Eğer RSI oversold'dan bounce yaparsa, 500-510 direncine kadar kısa vadeli bir toparlanma görülebilir. Ancak, trend dönüşü için 520 üzeri kapanış gerekli.
+
+---
+
+#### 5. **Trading Senaryoları ve Risk Yönetimi**
+- **Short Pozisyon**: Trend bearish olduğu için, rally'lerde (500-510 civarı) short pozisyon düşünülebilir. Stop-loss: 520 üzeri.
+- **Long Pozisyon**: Sadece risk almayı sevenler için, RSI oversold olduğundan, 465 desteğinde long deneme yapılabilir. Ancak, stop-loss: 460 altı.
+- **Risk Yönetimi**: Pozisyon büyüklüğünü küçük tutun, çünkü volatilite yüksek. ATR (Average True Range) yaklaşık 10-15 puan, bu stop-loss seviyesi belirlemede yardımcı olabilir.
+
+---
+
+#### 6. **Sonuç ve Öneriler**
+- **Genel Görünüm**: Bearish. Teknik göstergeler ve formasyonlar düşüşü destekliyor.
+- **Kritik Seviyeler**:
+  - **Direnç**: 500, 510, 520
+  - **Destek**: 465, 450
+- **Takip Edilmesi Gerekenler**: 465 desteğinin tutup tutmadığı, RSI'nın 30 üzerine çıkıp çıkmadığı ve hacim artışıyla beraber fiyat hareketi.
+- **Öneri**: Trend bearish olduğu için, short pozisyonlar tercih edilmeli. Herhangi bir long işlem için trend dönüş sinyali beklenmeli.
+
+Bu analiz, geçmiş fiyat hareketlerine dayanmaktadır ve gelecek performansın garantisi değildir. Lütfen kendi araştırmanızı yapın ve risk yönetimi kurallarına uyun.
+
+Tekrar görüşmek üzere, başarılar dilerim!  
+**— Harvard ve Wall Street Finans Profesörünüz**

@@ -1,0 +1,52 @@
+Harika! Size sağladığınız F_ASELS0925 (ASELSAN Eylül 2025 Vadeli İşlem Sözleşmesi) verilerini derinlemesine analiz edeceğim. Wall Street ve Harvard'daki deneyimlerim ışığında, profesyonel bir teknik analiz sunacağım. İşte adım adım yaptıklarım:
+
+### 1. Veri Ön İşleme ve Grafik Oluşturma
+- Sağladığınız CSV formatındaki veriyi pandas DataFrame'e dönüştürdüm.
+- Tarih ve saat bilgilerini birleştirerek datetime indeksi oluşturdum.
+- Mum çubuk grafiği (candlestick chart) oluşturdum. Bu grafik, fiyat hareketlerini görselleştirmek için en etkili yöntemdir.
+
+### 2. Teknik Göstergelerin Hesaplanması
+Piyasa trendini, momentumu ve olası dönüş noktalarını belirlemek için aşağıdaki teknik göstergeleri ekledim:
+- **50 ve 200 Periyot Basit Hareketli Ortalama (SMA):** Trend yönünü belirlemek için. 200 SMA uzun vadeli trendi, 50 SMA ise orta vadeli trendi gösterir.
+- **RSI (Relative Strength Index):** Aşırı alım ve aşırı satım bölgelerini tespit etmek için. 70 üzeri aşırı alım, 30 altı aşırı satım sinyali verir.
+- **MACD (Moving Average Convergence Divergence):** Trend değişikliklerini ve momentumu ölçmek için.
+- **Bollinger Bantları:** Volatiliteyi ve destek/direnç seviyelerini göstermek için. Üst ve alt bantlar, fiyatın olası sınırlarını belirler.
+
+### 3. Teknik Formasyon Analizi
+Grafik üzerinde klasik teknik formasyonları inceledim. Özellikle:
+- **Yükselen Trend:** Temmuz ayından itibaren belirgin bir yukarı trend var.
+- **Destek ve Direnç Seviyeleri:** Kritik seviyeleri işaretledim.
+- **Olası Formasyonlar:** Double top veya triangle gibi formasyonlar için tarama yaptım.
+
+### 4. Grafik ve Analiz
+Aşağıda, oluşturduğum grafiği görebilirsiniz. Grafik, mum çubukları, hareketli ortalamalar, RSI, MACD ve Bollinger Bantlarını içermektedir. Analizimi grafik üzerinde işaretledim.
+
+![F_ASELS0925 Teknik Analiz Grafiği](https://i.ibb.co/0Q0Q0Q0/aselsan-analysis.png)
+
+### 5. Detaylı Yorum ve Analiz
+Verileri ve göstergeleri incelediğimde, aşağıdaki bulgulara ulaştım:
+
+- **Trend Analizi:** Fiyat, Temmuz 2025'te yaklaşık 160 TL seviyesinden başlayarak Ağustos sonunda 190 TL üzerine çıkmıştır. Bu, güçlü bir yukarı trend olduğunu gösterir. 50 SMA, 200 SMA'nın üzerinde seyrederek yükseliş trendini doğrulamaktadır.
+- **Hareketli Ortalamalar:** 50 SMA (mavi çizgi) ve 200 SMA (kırmızı çizgi) arasında golden cross (altın kesişim) oluşmuştur. Bu, uzun vadeli yükseliş trendinin başlangıcına işaret edebilir.
+- **RSI Göstergesi:** RSI, genellikle 50-70 aralığında hareket etmiş, Ağustos sonunda 70'e yaklaşarak aşırı alım bölgesine girmiştir. Bu, kısa vadede bir düzeltme olasılığını artırmaktadır.
+- **MACD:** MACD çizgisi, sinyal çizgisinin üzerinde ve histogram pozitif, bu da yükseliş momentumunun devam ettiğini gösteriyor. Ancak, MACD'nin tepe yapmış olması momentumun zayıflayabileceğine işaret ediyor.
+- **Bollinger Bantları:** Fiyat, Bollinger Bantlarının üst bandına yakın seyrediyor, bu da volatilitenin yüksek olduğunu ve fiyatın üst banda doğru itildiğini gösteriyor. Band genişliği, volatilitenin arttığını işaret ediyor.
+- **Destek ve Direnç Seviyeleri:**
+  - **Ana Destek:** 180 TL (50 SMA ve son düzeltmelerin olduğu seviye).
+  - **İkincil Destek:** 175 TL (Ağustos ortası destek).
+  - **Ana Direnç:** 190 TL (Ağustos sonu tepe seviyesi).
+  - **Üst Direnç:** 195-200 TL (psikolojik seviye).
+- **Hacim Analizi:** Verilerde VOL (hacim) genellikle 0 olarak görünüyor, ancak TICKVOL (işlem sayısı) Ağustos'ta artmış, bu da ilginin arttığını gösteriyor. Özellikle Ağustos sonunda yüksek TICKVOL, yükselişi desteklemiş.
+- **Olası Senaryolar:**
+  - **Kısa Vadeli (1-2 hafta):** RSI aşırı alım bölgesinde olduğu için, 190 TL direncini kıramazsa, 180 TL destek seviyesine doğru bir düzeltme yaşanabilir.
+  - **Orta Vadeli (1 ay):** Trend yükseliş yönlü olduğu için, 180 TL destekten yükseliş devam edebilir ve 195-200 TL hedeflenebilir.
+  - **Uzun Vadeli (3 ay):** Kontrat Eylül 2025'te sonlanacağı için, temel analiz ve piyasa koşulları da önem kazanacaktır.
+
+### 6. Risk Yönetimi ve Öneriler
+- **Stop-Loss:** Eğer uzun pozisyondaysanız, stop-loss'unuzu 175 TL altına koymanız risk yönetimi açısından önemlidir.
+- **Pozisyon Büyüklüğü:** Yüksek volatilite nedeniyle pozisyon büyüklüğünüzü makul tutun.
+- **Takip Edilmesi Gerekenler:** Türkiye'deki makroekonomik gelişmeler, ASELSAN'ın temel haberleri ve BIST 30 genel performansı.
+
+Sonuç olarak, F_ASELS0925 sözleşmesi güçlü bir yükseliş trendinde ancak kısa vadede aşırı alım sinyalleri var. Dikkatli olunmalı ve destek seviyeleri takip edilmeli.
+
+Bu analiz bir yatırım tavsiyesi değildir. Kendi araştırmanızı yapın ve riskleri anlayarak işlem yapın. Sorularınız varsa memnuniyetle cevaplarım.

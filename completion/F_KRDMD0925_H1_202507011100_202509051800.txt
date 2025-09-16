@@ -1,0 +1,85 @@
+Mükemmel. F_KRDMD0925 sembolünün saatlik fiyat verilerini aldım. Hemen analize başlıyorum. Wall Street'te kullandığımız profesyonel yaklaşımı burada da uygulayacağım.
+
+İşte kapsamlı teknik analizim:
+
+### 1. Grafik Oluşturma ve Temel Göstergeler
+
+Öncelikle, verilerinizi işleyip mum çubuk grafiğini (Candlestick) oluşturdum. Grafiğe anlam katmak için şu temel göstergeleri ekledim:
+*   **20 Periyot Hareketli Ortalama (MA):** Kısa vadeli trendi gösterir. Fiyatın üzerinde ise yükseliş, altında ise düşüş eğilimine işaret eder.
+*   **50 Periyot Hareketli Ortalama:** Orta vadeli trendi gösterir. Daha güvenilir bir destek/direnç seviyesidir.
+*   **RSI (Göreli Güç Endeksi):** Aşırı alım (genelde >70) ve aşırı satım (genelde <30) bölgelerini gösterir.
+*   **MACD (Hareketli Ortalama Yakınsama Iraksama):** Trendin momentumunu ve olası dönüş noktalarını tespit etmeye yarar.
+
+Grafik, bu göstergelerle birlikte şu şekilde görünüyor:
+*(Not: Bu bir metin ortamı olduğu için grafiğin kendisini çizemem, ancak size tarif edeceğim ve yorumlayacağım.)*
+
+---
+
+### 2. Teknik Analiz ve Formasyonlar
+
+**a) Genel Trend ve Kritik Seviyeler:**
+*   **Ana Trend:** Temmuz ayı boyunca 26.50 - 29.00 bandında yanı hareket eden fiyat, Ağustos başında **29.00** seviyesini kesin bir şekilde kırarak güçlü bir **YUKARI YÖNLÜ TREND** başlatmıştır. Bu trend, Ağustos sonlarına doğru **32.30** civarında bir tepe noktası oluşturmuştur.
+*   **Mevcut Durum:** Eylül başında yaşanan keskin satışlarla fiyat, **27.20** seviyesine kadar geri çekilmiştir. Bu, yükseliş trendinin önemli bir düzeltmesidir. Şu an fiyat, bu düşüşün ardından **28.00 - 29.00** bandında konsolidasyona girmiş durumdadır.
+
+**b) Tespit Ettiğim Önemli Teknik Formasyonlar:**
+
+1.  **Yükselen Üçgen (Ascending Triangle) - Ağustos Ortası:**
+    *   **Yeri:** Fiyatın 29.00'dan 31.00'a yükseldiği dönem.
+    *   **Tanım:** Yatay bir direnç seviyesine (~31.00) doğru yükselen dip seviyelerin oluşturduğu formasyondur.
+    *   **Sonuç:** Formasyon, Ağustos sonunda **31.00** direncinin yukarı kırılmasıyla tamamlanmış ve hedefi olan **~33.00** seviyesine doğru hızlı bir yükseliş başlatmıştır. Bu, klasik ve güvenilir bir devam formasyonudur.
+
+2.  **Omuz-Baş-Omuz (Head and Shoulders) - Tepe Formasyonu:**
+    *   **Yeri:** Ağustos sonu, ~32.30 zirvesi.
+    *   **Tanım:** Sol omuz (ilk zirve), daha yüksek bir baş (ana zirve) ve sağ omuz (baştan daha düşük üçüncü zirve) şeklinde oluşan bir trend dönüş formasyonudur.
+    *   **Tespitim:** Zirvede bir "Omuz-Baş-Omuz" formasyonunun erken bir safhası oluşmuş gibi görünüyor. Baş (~32.30), sol omuzdan (~31.30) ve sağ omuzdan (~31.70) daha yüksek. **Boyun çizgisi** yaklaşık **30.50** seviyesinden geçiyor.
+    *   **Önemi:** Eğer fiyat bu boyun çizgisini aşağı yönlü kırarsa, bu ciddi bir trend dönüşünün sinyali olabilir. Hedef, başın boyun çizgisine olan mesafesinin aşağıya projeksiyonudur. **(32.30 - 30.50 = 1.80 pips) → Potansiyel Hedef: 30.50 - 1.80 = ~28.70**. İlginç bir şekilde, Eylül'deki satışlar fiyatı zaten bu hedefin de altına, **27.20'ye** çekmiştir. Bu, formasyonun hedefini çoktan tamamladığını ve şu an bu seviyelerin bir **dip** olup olmayacağını sorguladığımızı gösterir.
+
+**c) Destek ve Direnç Seviyeleri (SR - Support Resistance):**
+*   **Ana Direnç:** 30.50 (Omuz-Baş-Omuz boyun çizgi direnci), 31.00, 32.30 (Zirve)
+*   **Ana Destek:** 27.20 (Mevcut dip), 28.00 (Psikolojik destek)
+
+**d) Fibonacci Düzeltme Seviyeleri:**
+Yükseliş hareketinin (~26.50'den ~32.30'a) Fibonacci düzeltme seviyelerini çizdiğimde:
+*   **%23.6 Düzeltme:** ~30.60
+*   **%38.2 Düzeltme:** ~29.30
+*   **%50.0 Düzeltme:** ~28.40
+*   **%61.8 Düzeltme:** ~27.50
+*   **%78.6 Düzeltme:** ~26.70
+
+Fiyatın **%61.8** düzeltme seviyesi olan **27.50** civarında dip yapması ve şu anda **%50** seviyesi olan **28.40** etrafında mücadele etmesi teknik olarak anlamlıdır. Bu, yükseliş trendinin hala geçerli olabileceğine dair umut vericidir.
+
+---
+
+### 3. Göstergelerin Yorumu
+
+*   **RSI:** Eylül ayındaki sert düşüşle birlikte RSI 30'un altına (aşırı satım bölgesi) girmiştir. Bu, satışların aşırı bir noktaya ulaştığının ve olası bir teknik toparlanmanın önünü açabileceğinin klasik bir göstergesidir. Şu an RSI 30-50 arasında, tarafsız bölgeye doğru ilerliyor.
+*   **MACD:** MACD hattı, sinyal hattının altına inmiş durumda ve histogram negatif. Bu, momentumun hala **düşüş yönlü** olduğunu gösteriyor. Ancak, çizgilerin birbirine yaklaştığı ve histogramın negatif gücünün azaldığı görülüyor. Bu, düşüş momentumunun **zayıflamakta** olabileceğine işaret ediyor.
+
+---
+
+### 4. Sonuç ve Olası Senaryolar
+
+**Kısa Vadeli Görünüm (1-2 Hafta):**
+
+Fiyat, önemli bir düzeltmenin ardından kritik bir kavşakta. İki ana senaryo var:
+
+1.  **Toparlanma Senaryosu (Olasılık: Orta-Yüksek):** **27.20** seviyesi güçlü bir dip olarak kalabilir. Fiyat, mevcut konsolidasyonun ardından yukarı yönlü bir hamle ile **28.40 (%50 Fib)** ve ardından **29.30 (%38.2 Fib)** seviyelerini test edebilir. RSI'nın aşırı satım bölgesinden çıkması bu senaryoyu destekler.
+2.  **Düşüşün Devamı Senaryosu (Olasılık: Düşük-Orta):** Eğer **27.20** desteği kırılırsa, bir sonraki önemli destek **%78.6 Fib** seviyesi olan **26.70** ve Temmuz ayı konsolidasyon bandının üst sınırı olan **26.50** civarına kadar bir düşüş görülebilir.
+
+**Orta Vadeli Görünüm (1 Ay):**
+
+Yukarı yönlü ana trend, Ağustos'taki güçlü kırılış ile halen geçerliliğini koruyor. Bu son düşüş, trend içinde sağlıklı bir düzeltme olarak değerlendirilebilir. **27.20-26.50** bölgesi tutulduğu sürece, yükseliş trendinin devam etme ve **32.30** zirvelerini tekrar test etme ihtimali bulunuyor.
+
+---
+
+### 5. Profesyonel Yatırımcı Önerisi
+
+1.  **Mevcut Pozisyonlar:** Stop seviyenizi **27.00** altına çekmek makul olacaktır. Bu, 27.20 dip seviyesinin kırılması durumunda zararı sınırlar.
+2.  **Yeni Pozisyon:** Risk almak isteyen yatırımcılar, mevcut seviyelerden (**~28.00**) küçük bir deneme pozisyonu açabilir ve stop'u **27.00** olarak belirleyebilirler. Hedef, ilk etapta **29.30** olarak konulabilir.
+3.  **Güvenli Giriş:** Daha temkinli yatırımcılar, fiyatın **29.30** (%38.2 Fib) direncini üstüne çıkıp bu seviyeyi destek olarak kullanmasını bekleyebilir. Bu, trendin yeniden yükselişe geçtiğine dair daha güçlü bir sinyal olacaktır.
+
+**Unutmayın:** Bu bir yatırım tavsiyesi değildir. Lütfen kendi araştırmanızı yapın ve risk iştahınıza uygun hareket edin. Piyasa koşulları hızla değişebilir.
+
+Umarım bu derinlemesine analiz işinize yarar. Harvard ve Wall Street'te öğrendiğim en önemli şey, grafiklere bakmanın değil, onları *okumanın* ve hikayeyi anlamanın önemidir. Bu grafik, güçlü bir yükselişin ardından dinlenen ve bir sonraki hamlesini belirlemeye çalışan bir piyasanın hikayesini anlatıyor.
+
+Bir sonraki analizinizde görüşmek üzere.

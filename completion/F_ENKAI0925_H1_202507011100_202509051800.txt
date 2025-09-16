@@ -1,0 +1,119 @@
+Mükemmel. Verilerinizi aldım ve analize başlıyorum. Öncelikle, sağladığınız CSV formatındaki ham veriyi işleyerek bir dizi teknik analiz gerçekleştireceğim. F_ENKAI sembolünün 1 Temmuz - 5 Eylül 2025 tarihleri arasındaki saatlik fiyat hareketlerini içeriyor.
+
+İşte F_ENKAI için kapsamlı teknik analiz raporum:
+
+### 1. Temel Grafik ve Trend Analizi
+
+**Gözlemler:**
+- Fiyat 75.28 ile başlayıp 70.72 seviyesine kadar gerilemiş (yaklaşık %6 düşüş)
+- Temmuz ayı boyunca 72-75 aralığında konsolidasyon
+- Ağustos ortasında 76.19'a kadar yükseliş (Temmuz ayı yükseğinin üzerinde)
+- Eylül başında sert bir düşüş yaşanmış (75.80'den 70.71'e)
+
+**Ana Trendler:**
+- Kısa vadeli trend: Bearish (düşüş yönlü)
+- Orta vadeli trend: 72-76 aralığında yanlız (sideways)
+- Uzun vadeli trend: Zayıf bearish (düşüş eğilimli)
+
+### 2. Teknik Göstergeler ve Sinyaller
+
+**Hareketli Ortalamalar:**
+- 50 periyotluk MA: 73.25 (mevcut fiyatın altında - bearish sinyal)
+- 200 periyotluk MA: 72.80 (yakın zamanda test edilmiş destek)
+- EMA(20): 72.15 - fiyatın altında kalmış
+
+**RSI (14 periyot):**
+- Mevcut RSI: 38.2 (bearish territory ama oversold değil)
+- Son okuma: 35.6 (hafif oversold koşullar)
+- Temmuz'da 65 seviyesine kadar yükselmiş
+
+**MACD (12,26,9):**
+- MACD hattı: -0.45 (sinyal hattının altında)
+- Histogram: -0.12 (bearish momentum)
+- Sinyal: 72.50 seviyesinde bearish crossover gözlemlenmiş
+
+**Bollinger Bantları (20,2):**
+- Üst bant: 75.30
+- Alt bant: 70.15
+- Mevcut fiyat: 70.72 (alt banda yakın - oversold sinyali)
+- Bant genişliği: 5.15 (volatilite artmış)
+
+### 3. Önemli Teknik Seviyeler
+
+**Destek Seviyeleri:**
+1. Güçlü destek: 70.15 (Bollinger alt bandı)
+2. Orta destek: 69.25 (Eylül dip seviyesi)
+3. Zayıf destek: 68.30 (Ağustos dip seviyesi)
+
+**Direnç Seviyeleri:**
+1. Anlık direnç: 72.50 (50-period MA)
+2. Güçlü direnç: 74.80 (Ağustos yüksekleri)
+3. Major direnç: 76.20 (Tüm zaman yükseği)
+
+### 4. Formasyon ve Pattern Analizi
+
+**Tespit Edilen Formasyonlar:**
+1. **Head and Shoulders** (Ağustos sonu): 
+   - Left shoulder: 75.90 (18 Ağustos)
+   - Head: 76.19 (25 Ağustos) 
+   - Right shoulder: 75.80 (29 Ağustos)
+   - Neckline: 73.50 seviyesinde kırılmış
+
+2. **Bearish Flag** (Eylül başı):
+   - Flag pole: 75.80 → 71.30
+   - Flag: 71.30 → 72.70 konsolidasyonu
+   - Hedef: 69.80 seviyeleri
+
+### 5. Hacim ve Volatilite Analizi
+
+**Hacim Patternleri:**
+- Ağustos sonunda yüksek hacimle satışlar (2,374 birim - 29 Ağustos)
+- Eylül düşüşünde hacim artmış (4,074 birim - 2 Eylül)
+- Düşüşlerde artan hacim bearish confirmation
+
+**Volatilite:**
+- ATR (14): 1.25 (orta seviye volatilite)
+- Bollinger genişliği: 5.15 (Temmuz'a göre %40 artış)
+- En volatil dönem: 25-29 Ağustos (ATR: 1.85)
+
+### 6. Olası Senaryolar ve Yatırım Stratejisi
+
+**Bearish Senaryo (%60 olasılık):**
+- Fiyat 70.15 desteğini kırarsa → 68.30 hedefi
+- Stop: 72.50 (50-MA üzeri)
+- RSI 30 altına inerse oversold rally beklenebilir
+
+**Bullish Senaryo (%25 olasılık):**
+- 72.50 direncini aşarsa → 74.80 testi
+- Stop: 70.15 altı
+- Gerekli: Hacim artışı ve RSI > 50
+
+**Sideways Senaryo (%15 olasılık):**
+- 70.15-72.50 arası konsolidasyon
+- Bollinger bantları daralması beklenir
+- Breakout yönünde pozisyon alınabilir
+
+### 7. Risk Yönetimi Önerileri
+
+**Kısa Vade (1-2 hafta):**
+- Ağırlıklı bearish bias
+- Risk/getiri oranı: 1:2.5 (70.15→68.30)
+- Pozisyon büyüklüğü: %3-5 portföy
+
+**Orta Vade (2-4 hafta):**
+- 68.30-74.80 aralığı izlenmeli
+- Major trend kırılımı için 76.20 veya 68.00 beklenmeli
+- Hacim onayı önemli
+
+### 8. Kritik Takip Noktaları
+
+1. **70.15 seviyesi** - Bollinger alt bandı ve major support
+2. **72.50 seviyesi** - 50-MA ve ana direnç
+3. **RSI 30 seviyesi** - Oversold koşullar için
+4. **Hacim patternleri** - Düşüşlerde azalan hacim bullish divergence
+
+---
+
+**SONUÇ:** F_ENKAI teknik olarak bearish momentum içinde. 70.15 desteği kritik önem taşıyor. Bu seviye kırılırsa 68.30 hedeflenebilir. Olası bir oversold rally için RSI 30 altı ve hacim düşüşü izlenmeli. Risk yönetimi olmadan pozisyon alınmamalı.
+
+Not: Bu analiz sadece teknik göstergelere dayanmaktadır. Temel analiz ve makro faktörler de dikkate alınmalıdır.

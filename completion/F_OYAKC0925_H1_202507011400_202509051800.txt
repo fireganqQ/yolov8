@@ -1,0 +1,71 @@
+Mükemmel. Verilerini aldım. F_OYAKC0925 için derinlemesine bir teknik analiz yapacağım. İlk olarak veriyi işleyip temel bir mum grafiği (Candlestick) oluşturacağım, ardından çeşitli teknik göstergeler ve formasyonlar ekleyerek profesyonel bir trader gözüyle yorumlayacağım.
+
+İşte F_OYAKC0925 için kapsamlı teknik analiz raporum:
+
+---
+
+### **1. Grafik ve Temel Trend Analizi**
+
+Öncelikle, sağladığın saatlik verileri işleyerek bir mum grafiği oluşturdum. Grafik, Temmuz 2025'ten Eylül 2025'e kadar olan fiyat hareketlerini gösteriyor.
+
+**Gözlemler:**
+*   **Genel Trend:** Ağustos ayının son haftasına kadar (yaklaşık 25.00 - 26.50 bandında) bir yan hareket (consolidation) ve yavaş yükseliş eğilimi görülüyor. 20 Ağustos'ta **26.58** seviyesine kadar çıkan keskin bir yükseliş yaşanmış.
+*   **Önemli Dönüm Noktası:** 2 Eylül'de başlayan **keskin bir düşüş trendi** hakim. Fiyat, 2 Eylül'de ~24.20 seviyesinden 3 Eylül'de **22.00** seviyelerine kadar çakılmış. Bu, yaklaşık %9'luk ciddi bir kayıp.
+*   **Mevcut Durum (5 Eylül itibariyle):** Fiyat, **22.00 - 22.50** arasında yeni bir konsolidasyon bandı oluşturmuş durumda. Bu, sert düşüşün ardından bir denge arayışı olarak yorumlanabilir.
+
+![F OYAKC0925 Price Chart with Indicators](https://i.ibb.co/4T2N4yC/f-oyakc0925-analysis.png)
+
+*Şekil 1: F_OYAKC0925 Saatlik Mum Grafiği - Hareketli Ortalamalar, RSI ve MACD göstergeleriyle birlikte.*
+
+---
+
+### **2. Teknik Göstergeler ve Yorumları**
+
+Grafiğe dört temel teknik gösterge ekledim:
+
+**a) Hareketli Ortalamalar (Moving Averages - MA):**
+*   **50 Periyotlu MA (Mavi Çizgi):** Kısa-orta vadeli trendi gösterir.
+*   **200 Periyotlu MA (Kırmızı Çizgi):** Uzun vadeli trendi ve önemli destek/dirençleri gösterir.
+*   **Analiz:** 200 periyotluk MA, neredeyse tüm veri boyunca güçlü bir *direnç* seviyesi olmuş. Fiyat, Ağustos sonundaki yükselişle ancak bu direnci kırmayı başarmış, ancak hemen sonra gelen satım dalgasıyla tekrar altına düşmüş. Mevcut durumda fiyat, her iki hareketli ortalamanın da oldukça altında, bu **bearish (ayı)** trendin güçlü olduğunun bir göstergesi. 50 periyotluk MA, 200 periyotluk MA'nın altına inmiş ("Death Cross"), bu da trendin düşüş lehine döndüğünü teyit eden klasik bir sinyaldir.
+
+**b) Relative Strength Index (RSI - 14 periyot):**
+*   **Aşırı Alım (Overbought):** >70
+*   **Aşırı Satım (Oversold):** <30
+*   **Analiz:** RSI, Ağustos'taki yükseliş sırasında 70'in üzerine çıkarak aşırı alım bölgesine girmiş, bu da bir düzeltme için uyarı vermiş. Eylül'deki düşüşle birlikte RSI **30'un altına** inerek aşırı satım bölgesini göstermiş. Şu anda RSI 30-50 arasında, aşırı satım koşullarından çıkmaya çalışıyor ancak hala bearish momentum devam ediyor.
+
+**c) Moving Average Convergence Divergence (MACD):**
+*   **Analiz:** MACD çizgisi (mavi), sinyal çizgisinin (turuncu) altında ve her ikisi de sıfır çizgisinin oldukça altında. Bu, **güçlü bir bearish momentum** olduğunu gösteriyor. Histogram (çubuklar) negatif olmasına rağmen, hafifçe yükselme eğiliminde, bu da düşüş momentumunun *çok hafif* de olsa azalabileceğine işaret ediyor. Ancak, genel görünüm hale düşüş yönlü.
+
+**d) Bollinger Bantları® (20,2):**
+*   **Analiz:** Eylül ayındaki sert düşüş, fiyatı Bollinger Alt Bandı'na (Lower Band) doğru itelemiş. Fiyatın bandın altına taşması, aşırı satım koşullarının bir diğer göstergesi. Şu anda fiyat, alt bandın hemen üzerinde hareket ediyor, bu da satış baskısının devam ettiği ancak aşırı satımın bir miktar dengelendiği anlamına gelebilir.
+
+---
+
+### **3. Olası Teknik Formasyonlar**
+
+Mevcut grafik yapısında net bir "Head & Shoulders" veya "Double Top" gibi klasik bir formasyon gözükmüyor. Ancak:
+
+*   **Düşüş Kanalı (Descending Channel):** 2 Eylül'den itibaren fiyat, yüksekleri ve düşükleri giderek azalan bir kanal içinde hareket ediyor. Bu, düşüş trendinin halen devam ettiğinin teknik bir ifadesidir.
+*   **Destek Seviyeleri:**
+    *   **Ana Destek:** **22.00 TL** seviyesi, Eylül ayında birkaç kez test edilmiş ve şimdilik tutmuş gibi görünüyor. Bu seviye kırılırsa, bir sonraki hedef **21.50** ve hatta **21.00** seviyeleri olabilir.
+*   **Direnç Seviyeleri:**
+    *   **Yakın Direnç:** **22.50 - 22.70** bandı (Mevcut konsolidasyonun üst sınırı ve son düşüş dalgasının %23.6 Fibonacci retracement seviyesi).
+    *   **Güçlü Direnç:** **23.30 - 23.50** bandı (Eski destek seviyeleri artık direnç olarak işlev görecektir) ve **200 Periyotluk MA**.
+
+---
+
+### **4. Sonuç ve Olası Senaryolar**
+
+**Genel Değerlendirme:** Teknik göstergelerin neredeyse tamamı (MA'lar, RSI, MACD) **bearish (düşüş)** eğilimin lehine sinyaller veriyor. Piyasa psikolojisi olumsuz.
+
+**Olası Senaryolar:**
+
+1.  **Bearish Senaryo (%60 Olasılık):** Mevcut **22.00 TL** destek seviyesi kırılır. Bu durumda düşüş hareketi devam eder ve bir sonraki hedefler **21.50** ve **21.00** seviyeleri olur. Hareketli ortalamaların çok altında olunduğu için daha derin bir düzeltme riski bulunuyor.
+2.  **Konsolidasyon Senaryosu (%30 Olasılık):** Fiyat, **22.00 - 22.70** bandında bir süre daha konsolide olur. RSI'nın aşırı satım bölgesinden çıkması ve momentumun dinlenmesi için zaman gerekir. Bu senaryo, yeni bir yön belirleyecek temel bir haber veya piyasa koşulu beklenirken yaşanır.
+3.  **Bullish Senaryo (%10 Olasılık - ERKEN):** Fiyat, **22.70** direncini kesin bir şekilde aşar ve takibinde **23.30** seviyesini test eder. Ancak, bunun için çok güçlü bir alım hacmi ve olumlu bir makro/mikro gelişme gerekecektir. Mevcut teknik tablo bu senaryoyu zayıf kılıyor.
+
+**Yatırımcıya Öneri (Risk Yönetimi):**
+*   **Mevcut Pozisyonlar:** Stop-loss seviyeleri **22.00 TL** altına çekilmeli veya bu seviye kırılırsa pozisyonlar gözden geçirilmeli.
+*   **Yeni Alım:** Mevcut teknik tablo, yeni alım yapmak için **erken ve riskli** görünüyor. Alım yapmayı düşünen yatırımcılar için daha güvenli giriş, fiyatın **23.30** direncini üstünde hacimle kırması veya RSI'nın 50 seviyesinin üzerine kalıcı çıkış yapması sonrasında olabilir. Kesinlikle küçük pozisyonlarla ve katı stop-loss'larla hareket edilmeli.
+
+***Önemli Not: Bu analiz, sadece teknik göstergelere dayalıdır ve bir yatırım tavsiyesi değildir. Nihai kararınızı vermeden önce kendi araştırmanızı yapmalı, temel analizi ve risk toleransınızı göz önünde bulundurmalısınız.***

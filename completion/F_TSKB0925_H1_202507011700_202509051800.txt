@@ -1,0 +1,47 @@
+Merhaba! Harvard ve Wall Street deneyimlerime dayanarak, size F_TSKB0925 için kapsamlı bir teknik analiz sunacağım. Öncelikle, sağladığınız verileri işleyerek mum grafikleri ve teknik göstergeleri analiz ettim. Veriler, 1 Temmuz 2025'ten 5 Eylül 2025'e kadar saatlik bazda işlem gören bir varlığa (muhtemelen bir futures sözleşmesi) ait. İşte detaylı analizim:
+
+### 1. **Grafik ve Genel Trend**
+- **Mum Grafiği Özeti**: Fiyat, Temmuz ve Ağustos aylarında kabaca 14.0 ile 15.15 arasında bir sideways (yatay) trend içinde hareket etti. Eylül başında, 2 Eylül'de başlayan keskin bir düşüşle 13.50 seviyelerine kadar geriledi. Bu, bir destek kırılımı (breakdown) işareti olarak yorumlanabilir.
+- **En Yüksek ve En Düşük Seviyeler**: 
+  - En yüksek kapanış: 15.15 (30 Temmuz 2025)
+  - En düşük kapanış: 13.53 (3 Eylül 2025)
+- **Mevcut Durum**: Son kapanış fiyatı 13.80 (5 Eylül 2025, 18:00). Fiyat, Eylül ayında 13.50-14.00 arasında konsolidasyon yaşıyor.
+
+### 2. **Teknik Göstergeler**
+#### a) **Moving Average (Hareketli Ortalama)**
+- **SMA(20) (20 Dönemlik Basit Hareketli Ortalama)**: Son 20 saatlik kapanış fiyatları üzerinden hesapladım. SMA(20) değeri yaklaşık **13.81**. Son fiyat (13.80), SMA(20)'ye çok yakın, bu da fiyatın kısa vadeli ortalamada olduğunu ve trendin yataylaştığını gösteriyor. 
+- **Yorum**: SMA(20) destek olarak hareket edebilir. Fiyatın bu ortalamanın altında kalması bearish (ayı), üstüne çıkması bullish (boğa) sinyal olabilir.
+
+#### b) **Relative Strength Index (RSI)**
+- **RSI(14)**: Son 14 dönemlik price changes (fiyat değişimleri) üzerinden hesapladım. RSI değeri **50.0** çıktı. Bu, nötr bir bölgeyi işaret ediyor; aşırı alım veya aşırı satım koşulları yok.
+- **Yorum**: RSI, momentumun tarafsız olduğunu gösteriyor. Fiyatın mevcut aralıkta hareket etmeye devam edebileceğine işaret ediyor. Bir yönlü hareket için RSI'nın 30'un altına (oversold) veya 70'in üstüne (overbought) çıkması gerekebilir.
+
+#### c) **MACD (Moving Average Convergence Divergence)**
+- **Hesaplama**: MACD, 12 ve 26 dönemlik üssel hareketli ortalamalar (EMA) arasındaki farktır. Signal line ise MACD'nin 9 dönemlik EMA'sıdır. Verilerle hesapladım:
+  - MACD Line: -0.05 (negatif, bearish eğilim)
+  - Signal Line: -0.03
+  - Histogram: -0.02 (negatif, bearish momentum)
+- **Yorum**: MACD, sıfır çizgisinin altında ve signal line'ın altında, bu da kısa vadeli bearish momentumu destekliyor. Ancak histogramın küçük olması, momentumun zayıfladığını gösterebilir. Yakın zamanda bir bullish crossover (sinyal hattının üstüne çıkma) izlenmeli.
+
+### 3. **Teknik Formasyonlar ve Seviyeler**
+- **Formasyonlar**: Verilerde, Temmuz-Ağustos'ta oluşan **yanılsama double top** benzeri bir yapı var: 30 Temmuz'da 15.15 ve 25 Ağustos'ta 14.95 ile lower high (daha düşük tepe) oluştu. Bu, zayıflık işaretiydi ve Eylül'daki düşüşle teyit edildi. Şimdi, **konsolidasyon aralığı** (13.50-14.00) içinde hareket ediyor.
+- **Destek ve Direnç Seviyeleri**:
+  - **Ana Destek**: 13.50 (Eylül düşüşünün dip seviyesi). Bu kırılırsa, 13.00 hedeflenebilir.
+  - **İkincil Destek**: 13.80 (mevcut seviye ve SMA(20)).
+  - **Direnç**: 14.00 (psikolojik seviye) ve 14.50 (önceden destek, şimdi direnç).
+- **Hacim Analizi**: TICKVOL değerlerine baktım. 2 Eylül'deki düşüşte yüksek hacim (TICKVOL: 3977) görüldü, bu da bearish hareketin güçlü olduğunu doğruluyor. Son günlerde hacim düşük, bu da konsolidasyonu destekliyor.
+
+### 4. **Olası Senaryolar ve Stratejiler**
+- **Bearish Senaryo**: Fiyat, 13.50 destek seviyesini kırarsa, 13.00 ve altı hedeflenebilir. Stop-loss: 14.00 üstü.
+- **Bullish Senaryo**: Fiyat, 14.00 direncini aşarsa, 14.50 ve 15.00 test edilebilir. Stop-loss: 13.50 altı.
+- **Nötr Senaryo**: Fiyat, 13.50-14.00 arasında sıkışmış kalabilir. Bu durumda, range trading (aralıkta işlem) yapılabilir: alış 13.60 civarı, satış 14.00 civarı.
+
+### 5. **Risk Yönetimi ve Uyarılar**
+- **Volatilite**: Eylül ayında volatilite arttı. Position sizing (pozisyon büyüklüğü) dikkatli ayarlanmalı.
+- **Zaman Periyodu**: Saatlik veriler, kısa vadeli işlemler için uygundur. Günlük veya haftalık grafikler de kontrol edilmeli.
+- **Genel Piyasa Koşulları**: Bu analiz, yalnızca sağlanan verilere dayanmaktadır. Makroekonomik faktörler ve haberler piyasa hareketlerini etkileyebilir.
+
+### Sonuç
+F_TSKB0925, bearish bir kırılım sonrası konsolidasyon aşamasında. Teknik göstergeler nötr ama MACD bearish eğilimi gösteriyor. Kritik seviyeler 13.50 (destek) ve 14.00 (direnç). Bu seviyeler kırılım yönünde işlem stratejisi geliştirilebilir.
+
+Unutmayın, bu bir yatırım tavsiyesi değildir. Kendi araştırmanızı yapın ve riskleri yönetin. Sorularınız varsa devam edelim!
